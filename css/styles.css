@@ -36,6 +36,7 @@ main {
   gap: 25px;
   background: var(--white);
   border-radius: 20px;
+
   box-shadow: 1px 10px 22px 9px hsla(0%, 0%, 0%, 5%);
 }
 
